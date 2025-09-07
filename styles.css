@@ -1,0 +1,7 @@
+.header {
+    font-size: 40px;
+}
+.header, #excuse {
+  text-align: center;
+  margin-top: 40px;
+}
